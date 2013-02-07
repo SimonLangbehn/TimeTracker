@@ -7,6 +7,10 @@
 
 This demo demonstrates how to develop easily a web app with HTML, CSS and JavaScript
 
+Workshop agenda: 
+https://github.com/konstantindenerz/web-ninja-training/blob/master/basics/notes/README.md 
+
+
 ## Step 1
 
 ### First Checkin
