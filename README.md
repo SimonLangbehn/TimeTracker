@@ -2,7 +2,7 @@
 
 ## Version 1.0
 
-This demo demonstrates how to develop web application easily
+This demo demonstrates how to develop easily a web app with HTML, CSS and JavaScript
 
 ## Step 1
 
